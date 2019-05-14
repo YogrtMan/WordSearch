@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="word_list">
+        <item>KOTLIN</item>
+        <item>SWIFT</item>
+        <item>OBJECTIVEC</item>
+        <item>VARIABLE</item>
+        <item>JAVA</item>
+        <item>MOBILE</item>
+    </array>
+</resources>
